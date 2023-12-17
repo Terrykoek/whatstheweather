@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whatstheweather/static/css/main.9f6e954d.css",
+    "main.js": "/whatstheweather/static/js/main.6b135245.js",
+    "static/media/bg-light.png": "/whatstheweather/static/media/bg-light.8c350b8b1a79dfe77e95.png",
+    "static/media/sun.png": "/whatstheweather/static/media/sun.26a7dffcd9aa63d0d2c1.png",
+    "index.html": "/whatstheweather/index.html",
+    "main.9f6e954d.css.map": "/whatstheweather/static/css/main.9f6e954d.css.map",
+    "main.6b135245.js.map": "/whatstheweather/static/js/main.6b135245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f6e954d.css",
+    "static/js/main.6b135245.js"
+  ]
+}
